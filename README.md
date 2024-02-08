@@ -4,7 +4,7 @@ It is well documented that mental health problems are becoming increasignly more
 
 This notebooks aims to assess the potential benefits of using Neural Networks to detect potentially alarming messages online. Given an extensive sample of messages (both alarming and not), I compare the accuracy of a traditional model (Naive Bayes) to a Deep Learning model when classifying messages. We see a significant improvement in accuracy.
 
-## Notebook Structure:
+### Notebook Structure:
 - Construction of preprocessing functions.
 - Sample preprocessing workflow.
 - Initial data exploration and analysis.
