@@ -1,8 +1,8 @@
 # NATURAL LANGUAGE NEURAL NETWORK MODEL
 
-It is well documented that mental health problems are becoming increasignly more prevelant amongst children and young adults. This increase coencides with the growth of social media and shift towards a more virual form of communication, often making it hard for parents and peers to identify mental health troubles early and seek the help a child may need. Using modern technology, we can begin to identify and detect early signs of depression and anxiety and seek to provide help at an early stage.
+The growing prevalence of mental health issues amongst children and young adults has been linked to the rise of social media and the shift towards virtual communication. This evolution complicates early detection of mental health concerns, making it challenging for parents and peers to recognise problems and intervene promptly. Leveraging modern technology offers a pathway to identify early indicators of depression and anxiety, enabling timely assistance.
 
-This notebooks aims to assess the potential benefits of using Neural Networks to detect potentially alarming messages online. Given an extensive sample of messages (both alarming and not), I compare the accuracy of a traditional model (Naive Bayes) to a Deep Learning model when classifying messages. We see a significant improvement in accuracy.
+This notebook evaluates the use of Neural Networks for detecting concerning messages online. By analysing a comprehensive dataset of messages (both concerning and non-concerning), it contrasts the performance of a traditional Naive Bayes model with that of a Deep Learning model in message classification. The results demonstrate a notable enhancement in accuracy with the Deep Learning approach.
 
 ### Notebook Structure: 📂
 - Construction of preprocessing functions.
